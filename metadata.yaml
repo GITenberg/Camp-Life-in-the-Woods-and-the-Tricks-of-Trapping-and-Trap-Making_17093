@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7134
     wikipedia: http://en.wikipedia.org/wiki/William_Hamilton_Gibson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17093#Camp-Life-in-the-Woods-and-the-Tricks-of-Trapping-and-Trap-Making
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
 identifiers:
